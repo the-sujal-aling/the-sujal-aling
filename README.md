@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sujal Aling
 **Data Analyst |  SQL, Power BI & Python, Excel**
 
-Email Me 👉 ✉️ **sujalaling383@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sujalaling383@gmail.com** For Collaboration or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:
 - 🌱 **I’m currently learning:**Data Analytics
