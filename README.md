@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **sujalaling383@gmail.com** For Collaboration or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:
-- 🌱 **I’m currently learning:**Data Analytics
+- 🌱 **I’m currently learning:** Data Analytics
 - 👯 **I’m looking to collaborate on:** 
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration, Tech Support
