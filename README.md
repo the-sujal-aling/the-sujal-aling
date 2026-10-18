@@ -1,16 +1,16 @@
-# 💫 Hi 👋, I'm Sujal Aling
+# Hi 👋, I'm Sujal Aling
 **Data Analyst |  SQL, Power BI & Python, Excel**
 
 Email Me 👉 ✉️ **sujalaling383@gmail.com** For Collaboration or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:
-- 🌱 **I’m currently learning:** Data Analytics
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** sujalaling383@gmail.com
-- 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-  **I’m currently working on:
+-  **I’m currently learning:** Data Analytics
+-  **I’m looking to collaborate on:** 
+-  **I’m looking for help with:** 
+-  **Ask me about:** Collaboration, Tech Support
+-  **How to reach me:** sujalaling383@gmail.com
+-  **Pronouns:** he/him
+-  **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
